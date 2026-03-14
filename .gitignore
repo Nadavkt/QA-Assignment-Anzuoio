@@ -1,0 +1,7 @@
+node_modules/
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+.vs/

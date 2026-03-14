@@ -1,0 +1,14 @@
+{
+  "name": "qa-assignment-server",
+  "version": "1.0.0",
+  "description": "Node.js TCP server for Unity QA assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
+
